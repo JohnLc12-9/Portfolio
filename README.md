@@ -25,5 +25,3 @@ A mockup practice website guide to happiness
 First, A few simple first buttons
 
 ![](https://github.com/JohnLc12-9/Portfolio/blob/main/images/Screenshot%202023-01-08%20at%203.41.19%20PM.png)
-
-theme: slate
