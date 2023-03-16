@@ -7,6 +7,7 @@ Computer Science Portfolio
 A hangman style word guessing game made in a SWIFT app development course.
 
 ![](https://github.com/JohnLc12-9/Portfolio/blob/main/images/Screenshot%202023-01-09%20at%2010.08.09%20PM.png)
+https://github.com/JohnLc12-9/Portfolio/blob/main/images/Screenshot%202023-01-09%20at%2010.08.09%20PM.png
 
 # Calculator
 
