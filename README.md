@@ -14,7 +14,7 @@ A traditional calculator
 
 ![](https://github.com/JohnLc12-9/Portfolio/blob/main/images/Screenshot%202023-01-09%20at%204.29.45%20PM.png)
 
-# Website Wirefram
+# Website Wireframe
 
 A mockup practice website guide to happiness
 
